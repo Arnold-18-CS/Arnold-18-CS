@@ -35,6 +35,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Arnold-18-CS&limit=5&theme=github_dark_dimmed&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Arnold-18-CS&icon=10&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Arnold-18-CS&icon=10&color=1)]()
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
