@@ -41,7 +41,7 @@
 </center>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Arnold-18-CS&theme=discord_old_blurple&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Arnold-18-CS&theme=discord_old_blurple&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Arnold-18-CS&theme=discord_old_blurple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arnold-18-CS&theme=discord_old_blurple&hide_border=false&include_all_commits=false&count_private=true&layout=donut)
 
