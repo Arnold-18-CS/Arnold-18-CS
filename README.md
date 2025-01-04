@@ -24,7 +24,8 @@ I have been coding for about 3 years now. I really enjoy learning new languages,
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white) ([https://linkedin.com/in/Arnold Oguda](https://www.linkedin.com/in/arnold-oguda-abb438310/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_verification_details%3BAtXA%2BfTmScah34XVrb7l7A%3D%3D)) 
 
 
-# 💻 Tech Stack:
+# 💻 Tech Stack: 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Android+Developer;Data+Science+and+Visualization+Developre)](https://git.io/typing-svg)
 ## Languages Learned
 
 <center>
